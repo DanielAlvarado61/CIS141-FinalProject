@@ -4,9 +4,9 @@ The player creates a hero, explores rooms, fights enemies, uses potions, and col
 
 The program demonstrates:
 
-*Object-oriented programming
-*Inheritance
-*Polymorphism
-*Class interaction
-*Randomized combat
-*User input with Scanner
+*Object-oriented programming<br>
+*Inheritance<br>
+*Polymorphism<br>
+*Class interaction<br>
+*Randomized combat<br>
+*User input with Scanner<br>
