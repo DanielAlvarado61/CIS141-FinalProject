@@ -1,5 +1,5 @@
 # CIS141-FinalProject
-This project is a simple text-based adventure game inspired by DnD.
+My final project is a simple text-based adventure game inspired by DnD.
 The player creates a hero, explores rooms, fights enemies, uses potions, and collects gold.
 
 The program demonstrates:
